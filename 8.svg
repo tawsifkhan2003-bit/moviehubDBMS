@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="600" height="900" fill="url(#g)"/>
+<circle cx="500" cy="110" r="150" fill="#ffffff" opacity="0.08"/><circle cx="100" cy="760" r="220" fill="#ffffff" opacity="0.06"/>
+<text x="50" y="90" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30" font-weight="700">MOVIEHUB</text>
+<text x="50" y="640" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="800">The Lord of the Rings: The Two Towers</text>
+<text x="50" y="700" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="25">Movie ID: 8</text>
+<text x="50" y="835" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="22">Movie Database Management System</text>
+</svg>
